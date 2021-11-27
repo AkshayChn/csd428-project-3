@@ -15,7 +15,7 @@
 10. Table: Modern Table with Chair by Aquvelous Link: https://assetstore.unity.com/packages/3d/props/interior/modern-table-with-chairs-83834
 11. Chair: Modern Table with Chair by Aquvelous Link: https://assetstore.unity.com/packages/3d/props/interior/modern-table-with-chairs-83834
 
-12. Butterfly by INNOWELL GmbH Link: https://assetstore.unity.com/packages/3d/characters/animals/insects/butterfly-animated-58355
+// removed 12. Butterfly by INNOWELL GmbH Link: https://assetstore.unity.com/packages/3d/characters/animals/insects/butterfly-animated-58355
 13. Low Poly Trashbin by The Location Lab Link: https://assetstore.unity.com/packages/3d/low-poly-trashbin-60789
 14. Trash Can1: Trash Can by ozgur Link: https://assetstore.unity.com/packages/3d/props/exterior/trash-can-23183
 15. Trash Can2: Trash Can by ozgur Link: https://assetstore.unity.com/packages/3d/props/exterior/trash-can-23183
