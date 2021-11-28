@@ -17,13 +17,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Project2.unity
     guid: 61fabb0dc74ea3495933a6c0c62e4706
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/MegoPlayset_old.unity
     guid: 63eb3244a8ffada6fbd93c166099192b
   - enabled: 0
     path: Assets/Scenes/dacing.unity
     guid: 3286c0f4f778a24cabf67120756f6429
-  - enabled: 1
+  - enabled: 0
     path: Assets/dancing_backup.unity
     guid: f7d5b61204dc69b448c80182a72998bc
   m_configObjects: {}
